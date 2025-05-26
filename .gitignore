@@ -1,0 +1,7 @@
+*.zst
+**/.ipynb_checkpoints/
+*.csv
+*.png
+*.pkl
+**/cslasl-pre/
+**/network/

@@ -1,0 +1,4 @@
+Put in this folder the following files from the dataset:
+RC_2020-12.zst
+RC_2021-01.zst
+RC_2021-02.zst

@@ -1,0 +1,4 @@
+Put in this folder the following files from the dataset:
+RS_2016-10.zst
+RS_2016-11.zst
+RS_2016-12.zst
